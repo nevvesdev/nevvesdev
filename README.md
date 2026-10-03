@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor backend em início de carreira. Tenho 2 anos de xp em ambiente corporativo de grande porte, no setor sucroenergético, aprendendo sobre: consistência de dados, rastreabilidade e processos que não podem falhar.
 
@@ -14,7 +14,7 @@ Nos meus projetos, o objetivo é aprender construindo: cada repositório tem REA
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
@@ -32,13 +32,13 @@ Nos meus projetos, o objetivo é aprender construindo: cada repositório tem REA
 - **Testes:** JUnit 5, Mockito, Testcontainers
 - **Ferramentas:** Docker e Docker Compose, Maven, Gradle, Git, Linux, IntelliJ IDEA
 
-### 📚 Estudando agora
+### Estudando agora
 
 Saga (orquestrada e coreografada) · Arquitetura Hexagonal · RabbitMQ · CI com GitHub Actions
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 - **[guardian-api](https://github.com/nevvesdev/guardian-api):** API com autenticação OAuth2, controle de acesso granular (RBAC), auditoria de acessos e rate limiting.
 - **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão do ciclo de vida de consentimento do Open Finance Brasil, com Clean Architecture.
@@ -48,7 +48,7 @@ Saga (orquestrada e coreografada) · Arquitetura Hexagonal · RabbitMQ · CI com
 
 ---
 
-## 🎯 Foco
+## Foco
 
 - **APIs REST** bem estruturadas, seguras e documentadas
 - **Sistemas orientados a eventos** e consistência em ambientes distribuídos

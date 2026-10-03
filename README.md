@@ -1,56 +1,59 @@
-# João Victor · Backend Engineer
+# João Victor · Desenvolvedor Backend Java
 
-> Building scalable systems in Java, Kotlin, and Go — with a strong focus on fintech, distributed architectures, and event-driven design.
+> Construo APIs e sistemas orientados a eventos com Java e Spring Boot, com foco em código limpo, testes e arquitetura que escala. **Em busca da minha primeira oportunidade como desenvolvedor backend.**
 
-📍 Brazil &nbsp;|&nbsp; 📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/joao-victor-macedo-neves/) &nbsp;|&nbsp; 🎥 [YouTube](https://www.youtube.com/@nevvesdev)
+📍 Brasil &nbsp;|&nbsp; 📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/) &nbsp;|&nbsp; 🎥 [YouTube](https://www.youtube.com/@nevvesdev)
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Sobre mim
 
-### Languages & Frameworks
+Sou desenvolvedor backend em início de carreira. Tenho 2 anos de xp em ambiente corporativo de grande porte, no setor sucroenergético, aprendendo sobre: consistência de dados, rastreabilidade e processos que não podem falhar.
+
+Nos meus projetos, o objetivo é aprender construindo: cada repositório tem README, testes e `docker-compose` para rodar com um comando.
+
+---
+
+## 🛠️ Tecnologias
 
 ![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Go](https://skillicons.dev/icons?i=go)
 ![Spring](https://skillicons.dev/icons?i=spring)
-
-- **Java 21** — Spring Boot, Spring Security, Spring Cloud Gateway, REST APIs, JUnit 5, Mockito
-- **Kotlin** — Spring Boot, Coroutines, JUnit 5
-- **Go** — Gin, Chi, Clean Architecture, Zerolog, golang-migrate
-
-### Data & Messaging
-
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Kafka](https://skillicons.dev/icons?i=kafka)
-
-- **Databases:** PostgreSQL, MongoDB, H2
-- **Cache:** Redis
-- **Messaging:** Apache Kafka, RabbitMQ
-
-### Architecture & Infrastructure
-
 ![Docker](https://skillicons.dev/icons?i=docker)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 
-- **Patterns:** Clean Architecture, Hexagonal, DDD, CQRS, SAGA, Transactional Outbox
-- **Infra:** Docker & Docker Compose, Resilience4j, Zipkin, Eureka, OpenTelemetry
-- **Auth:** JWT, Spring Security
-- **CI/CD:** GitHub Actions
+- **Java 21/25 e Spring Boot 4:** Spring Web, Spring Data JPA, Spring Security, API REST
+- **Autenticação:** JWT, OAuth2, controle de acesso (RBAC)
+- **Banco de dados e cache:** PostgreSQL, Flyway, Redis
+- **Mensageria:** Apache Kafka
+- **Padrões:** CQRS, Transactional Outbox, Clean Architecture, idempotência
+- **Resiliência:** Resilience4j
+- **Testes:** JUnit 5, Mockito, Testcontainers
+- **Ferramentas:** Docker e Docker Compose, Maven, Gradle, Git, Linux, IntelliJ IDEA
 
-### Tools & Environment
+### 📚 Estudando agora
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![IntelliJ](https://skillicons.dev/icons?i=idea)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
-- Linux (Ubuntu), IntelliJ IDEA, Insomnia, Git & GitHub
+Saga (orquestrada e coreografada) · Arquitetura Hexagonal · RabbitMQ · CI com GitHub Actions
 
 ---
 
-## 🎯 Focus Areas
+## 🚀 Projetos em destaque
 
-- **Fintech & Digital Banking** — core banking, digital wallets, credit
+- **[guardian-api](https://github.com/nevvesdev/guardian-api):** API com autenticação OAuth2, controle de acesso granular (RBAC), auditoria de acessos e rate limiting.
+- **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão do ciclo de vida de consentimento do Open Finance Brasil, com Clean Architecture.
+- **[cqrs-pattern](https://github.com/nevvesdev/cqrs-pattern):** CQRS com Transactional Outbox e CDC em dois microsserviços, usando Kafka.
+- **[settlement-engine](https://github.com/nevvesdev/settlement-engine):** motor de liquidação de transações com consistência ACID e idempotência.
+- **[notification-hub](https://github.com/nevvesdev/notification-hub):** microsserviço de notificações orientado a eventos, com Kafka,
+
+---
+
+## 🎯 Foco
+
+- **APIs REST** bem estruturadas, seguras e documentadas
+- **Sistemas orientados a eventos** e consistência em ambientes distribuídos
+- **Qualidade de código:** testes automatizados, CI e documentação clara
+
+---
+
+Também exploro Go de forma esporádica para estudar sistemas distribuídos, como no [distributed-transaction-coordinator](https://github.com/nevvesdev/distributed-transaction-coordinator).

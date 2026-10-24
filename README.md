@@ -36,14 +36,14 @@ Aprendo construindo: nos projetos em destaque, a infraestrutura (banco, cache e 
 
 ## Projetos em destaque
 
-- **[guardian-api](https://github.com/nevvesdev/guardian-api):** API com autenticação JWT (access e refresh token), RBAC, auditoria de acessos e rate limiting com Redis.
-- **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão do ciclo de vida de consentimentos do Open Finance Brasil, com Arquitetura Hexagonal, OAuth2 Resource Server com escopos, Transactional Outbox e Testcontainers.
-- **[notification-hub](https://github.com/nevvesdev/notification-hub):** microsserviço de notificações orientado a eventos, consumindo Kafka, com Resilience4j, Flyway e testes de integração com Testcontainers.
-- **[cqrs-pattern](https://github.com/nevvesdev/cqrs-pattern):** CQRS e Transactional Outbox em dois microsserviços, com publicação de eventos no Kafka por polling (simulando CDC).
-- **[event-driven-banking](https://github.com/nevvesdev/event-driven-banking):** sistema bancário com três microsserviços (conta, transferência e notificação) comunicando-se via REST e Kafka, com idempotência e CI no GitHub Actions.
+- **[guardian-api](https://github.com/nevvesdev/guardian-api):** API com autenticação JWT (access e refresh token), RBAC, auditoria de acessos e rate limiting com Redis. *(concluído)*
+- **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão do ciclo de vida de consentimentos do Open Finance Brasil, com Arquitetura Hexagonal, OAuth2 Resource Server com escopos, Transactional Outbox e Testcontainers. *(concluído)*
+- **[notification-hub](https://github.com/nevvesdev/notification-hub):** microsserviço de notificações orientado a eventos, consumindo Kafka, com Resilience4j, Flyway e testes de integração com Testcontainers. *(concluído)*
+- **[cqrs-pattern](https://github.com/nevvesdev/cqrs-pattern):** CQRS e Transactional Outbox em dois microsserviços, com publicação de eventos no Kafka por polling (simulando CDC). *(concluído)*
+- **[event-driven-banking](https://github.com/nevvesdev/event-driven-banking):** sistema bancário com três microsserviços (conta, transferência e notificação) comunicando-se via REST e Kafka, com idempotência e CI no GitHub Actions. *(concluído)*
 - **[distributed-cache](https://github.com/nevvesdev/distributed-cache):** serviço de consulta de saldo e limite de contas com Redis no padrão Cache-Aside. *(concluído)*
-- **[credit-approval-saga](https://github.com/nevvesdev/credit-approval-saga):** fluxo de aprovação de crédito e KYC como Saga orquestrada, com passos compensatórios. *(em andamento)*
-- **[fx-currency-exchange](https://github.com/nevvesdev/fx-currency-exchange):** API REST de câmbio com Java 21 e Spring Boot 4, com arquitetura em portas e adaptadores. *(em andamento)*
+- **[fx-currency-exchange](https://github.com/nevvesdev/fx-currency-exchange):** aplicação de câmbio e taxas de moedas, construída e pensada para casos de uso de fintechs e bancos digitais, com arquitetura em portas e adaptadores. *(concluído)*
+- **[alcada](https://github.com/nevvesdev/alcada):** serviço de aprovação e gestão de linhas de crédito, aplicando Saga orquestrada com compensações, eventos via outbox e requisições idempotentes. *(em andamento)*
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Desenvolvedor backend em início de carreira, com mais de 2 anos de experiência em um ambiente corporativo de grande porte, no setor sucroenergético. Nesse contexto aprendi a valorizar regras de negócio, consistência de dados, rastreabilidade e processos que não podem falhar, e levo essa mentalidade para o código.
+Desenvolvedor backend em início de carreira. Há mais de 2 anos atuo com operações administrativas em um ambiente corporativo de grande porte, no setor sucroenergético. Nesse contexto aprendi a valorizar regras de negócio, consistência de dados, rastreabilidade e processos que não podem falhar, e levo essa mentalidade para o código.
 
 Aprendo construindo: nos projetos em destaque, a infraestrutura (banco, cache e mensageria) sobe com Docker Compose, e cada um evolui com testes automatizados e CI.
 
@@ -40,13 +40,11 @@ Aprendo construindo: nos projetos em destaque, a infraestrutura (banco, cache e 
 - **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão do ciclo de vida de consentimentos do Open Finance Brasil, com Arquitetura Hexagonal, OAuth2 Resource Server com escopos, Transactional Outbox e Testcontainers. *(concluído)*
 - **[notification-hub](https://github.com/nevvesdev/notification-hub):** microsserviço de notificações orientado a eventos, consumindo Kafka, com Resilience4j, Flyway e testes de integração com Testcontainers. *(concluído)*
 - **[cqrs-pattern](https://github.com/nevvesdev/cqrs-pattern):** CQRS e Transactional Outbox em dois microsserviços, com publicação de eventos no Kafka por polling (simulando CDC). *(concluído)*
-- **[event-driven-banking](https://github.com/nevvesdev/event-driven-banking):** sistema bancário com três microsserviços (conta, transferência e notificação) comunicando-se via REST e Kafka, com idempotência e CI no GitHub Actions. *(concluído)*
 - **[distributed-cache](https://github.com/nevvesdev/distributed-cache):** serviço de consulta de saldo e limite de contas com Redis no padrão Cache-Aside. *(concluído)*
 - **[fx-currency-exchange](https://github.com/nevvesdev/fx-currency-exchange):** aplicação de câmbio e taxas de moedas, construída e pensada para casos de uso de fintechs e bancos digitais, com arquitetura em portas e adaptadores. *(concluído)*
 - **[alcada](https://github.com/nevvesdev/alcada):** serviço de aprovação e gestão de linhas de crédito, aplicando Saga orquestrada com compensações, eventos via outbox e requisições idempotentes. *(concluído)*
+- **[event-driven-banking](https://github.com/nevvesdev/event-driven-banking):** sistema bancário com três microsserviços (conta, transferência e notificação) comunicando-se via REST e Kafka, com idempotência e CI no GitHub Actions. *(em andamento)*
 - **[finance-flow](https://github.com/nevvesdev/financeflow):** painel de controle financeiro pessoal com lançamentos, categorias, contas a vencer e alertas agendados. *(em andamento)*
-
- *(concluído)*
 
 ---
 
@@ -55,7 +53,3 @@ Aprendo construindo: nos projetos em destaque, a infraestrutura (banco, cache e 
 - **APIs REST** bem estruturadas, seguras e documentadas
 - **Sistemas orientados a eventos** e consistência em ambientes distribuídos
 - **Qualidade de código:** testes automatizados, CI e documentação clara
-
----
-
-Também estudo Go de forma esporádica, focando em sistemas distribuídos e performance, como no [distributed-transaction-coordinator](https://github.com/nevvesdev/distributed-transaction-coordinator).

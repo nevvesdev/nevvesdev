@@ -43,7 +43,10 @@ Aprendo construindo: nos projetos em destaque, a infraestrutura (banco, cache e 
 - **[event-driven-banking](https://github.com/nevvesdev/event-driven-banking):** sistema bancário com três microsserviços (conta, transferência e notificação) comunicando-se via REST e Kafka, com idempotência e CI no GitHub Actions. *(concluído)*
 - **[distributed-cache](https://github.com/nevvesdev/distributed-cache):** serviço de consulta de saldo e limite de contas com Redis no padrão Cache-Aside. *(concluído)*
 - **[fx-currency-exchange](https://github.com/nevvesdev/fx-currency-exchange):** aplicação de câmbio e taxas de moedas, construída e pensada para casos de uso de fintechs e bancos digitais, com arquitetura em portas e adaptadores. *(concluído)*
-- **[alcada](https://github.com/nevvesdev/alcada):** serviço de aprovação e gestão de linhas de crédito, aplicando Saga orquestrada com compensações, eventos via outbox e requisições idempotentes. *(em andamento)*
+- **[alcada](https://github.com/nevvesdev/alcada):** serviço de aprovação e gestão de linhas de crédito, aplicando Saga orquestrada com compensações, eventos via outbox e requisições idempotentes. *(concluído)*
+- **[finance-flow](https://github.com/nevvesdev/financeflow):** painel de controle financeiro pessoal com lançamentos, categorias, contas a vencer e alertas agendados. *(em andamento)*
+
+ *(concluído)*
 
 ---
 

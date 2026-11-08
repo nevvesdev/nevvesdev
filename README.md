@@ -1,51 +1,42 @@
-# João Victor · Dados, Processos e Negócios
+# João Victor · Desenvolvedor Backend
 
-> Transformo rotinas operacionais em indicadores, automações e decisões.
+Construo APIs REST com Java e Spring Boot, com foco em código limpo, testes automatizados e CI. Estou em busca da minha primeira oportunidade como desenvolvedor backend.
 
-📍 Brasil &nbsp;|&nbsp; 📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/) &nbsp;|&nbsp; 🎥 [YouTube](https://www.youtube.com/@nevvesdev)
-
----
+📍 Brasil  |  📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/)
 
 ## Sobre mim
 
-Trabalho com faturamento e rotinas administrativas em SAP, Excel e Power BI, em uma grande empresa do setor sucroenergético. Nessa rotina aprendi a olhar para o processo com atenção aos dados: onde ele trava, onde gera retrabalho e o que medir para saber se melhorou.
+Trabalho há mais de dois anos em operações corporativas em uma empresa de grande porte. Lá aprendi a valorizar regras de negócio, consistência de dados e processos que não podem falhar, e levo essa mentalidade para o código.
 
-Hoje levo esse olhar para a área de dados. Automatizo tarefas com Python, transformo bases em painéis e estou construindo projetos com Spark e Databricks, do tratamento dos dados até o indicador final.
+Cada projeto tem README com diagramas Mermaid, decisões de arquitetura, pipeline de CI e instruções para rodar com Docker Compose.
 
----
+## Tecnologias
 
-## Ferramentas
+- **Backend:** Java 21, Spring Boot, Spring Security, Spring Data JPA
+- **Frontend:** Angular (no FinanceFlow, projeto full stack)
+- **Dados e mensageria:** PostgreSQL, Redis, Flyway, Apache Kafka
+- **Qualidade e infra:** JUnit 5, Testcontainers, Docker Compose, GitHub Actions, Maven, Linux
 
-Uso no dia a dia e em projetos:
+## Projeto em andamento
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8BB7?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- **[financeflow](https://github.com/nevvesdev/financeflow):** painel de controle financeiro pessoal, full stack com Spring Boot e Angular. Lançamentos, categorias, contas a vencer e alertas agendados.
 
----
+## Projetos concluídos
 
-## Projetos
-
-| Projeto | O que faz |
-|---|---|
-| **SLA e Performance Operacional** *(em construção)* | Ingestão, limpeza e modelagem de dados de uma operação sucroenergética, com Python, pandas, PostgreSQL e Docker. Dados simulados. |
-| **Pipeline de Dados com Spark e Databricks** *(em construção)* | Pipeline em camadas (arquitetura medallion) com Spark no Databricks, usando dados públicos de corridas de táxi de Nova York. |
-| **Monitoramento de KPIs com alertas** *(em construção)* | Cálculo de indicadores agendado com APScheduler e SQLAlchemy, com alertas quando há desvio. Dados simulados. |
-
----
+**APIs e autenticação**
+- **[guardian-api](https://github.com/nevvesdev/guardian-api):** autenticação e autorização com JWT (access e refresh token), RBAC e rate limiting com Redis.
+- **[open-finance-consent](https://github.com/nevvesdev/open-finance-consent):** gestão de consentimentos inspirada no Open Finance, com Arquitetura Hexagonal e OAuth2.
+**Cache e dados**
+- **[distributed-cache](https://github.com/nevvesdev/distributed-cache):** consulta de saldo e limite de contas com cache Redis no padrão Cache-Aside.
+**Eventos e mensageria**
+- **[cqrs-pattern](https://github.com/nevvesdev/cqrs-pattern):** CQRS e Transactional Outbox em dois microsserviços, com eventos publicados no Kafka.
+- **[notification-hub](https://github.com/nevvesdev/notification-hub):** notificações orientadas a eventos, com Kafka e Resilience4j.
+**Negócio e finanças**
+- **[alcada](https://github.com/nevvesdev/alcada):** aprovação de linhas de crédito com Saga orquestrada e requisições idempotentes.
+- **[fx-currency-exchange](https://github.com/nevvesdev/fx-currency-exchange):** câmbio e taxas de moedas, pensado para fintechs e bancos digitais, com arquitetura em portas e adaptadores.
 
 ## Foco
 
-- Business Intelligence: painéis e relatórios para acompanhar indicadores e apoiar decisões
-- Análise de dados: tratamento, cruzamento e análise exploratória com Python
-- Automação de processos: eliminar retrabalho em planilhas e rotinas
-- Melhoria contínua: mapear o processo, medir o resultado e propor a mudança
+- APIs REST bem estruturadas, seguras e documentadas
+- Sistemas orientados a eventos e consistência em ambientes distribuídos
+- Testes automatizados, CI e documentação clara

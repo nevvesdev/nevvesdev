@@ -1,4 +1,4 @@
-# João Victor · Desenvolvedor Backend
+# João Victor · Backend Developer
 
 I build REST APIs and backend applications with Java and Spring Boot, focusing on clean code, automated testing and software architecture. Ialso work with Angular and use Python and Apache Spark for data projects.
 📍 Brasil  |  📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/)

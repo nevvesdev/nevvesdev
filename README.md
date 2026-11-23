@@ -1,6 +1,6 @@
 # João Victor · Desenvolvedor Backend
 
-Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em código limpo, arquitetura, consistência de dados, testes automatizados e integração contínua. Também construo interfaces web com Angular e Typescript.
+Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em código limpo, arquitetura, consistência de dados sob concorrência, testes automatizados e integração contínua. Também construo interfaces web com Angular e Typescript.
 
 📍 Brasil  |  📧 [Email](mailto:nevvesdev@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/)  |  🌐 [Portfólio](https://portfolio-nevvesdev.vercel.app/)
 
@@ -11,6 +11,7 @@ Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em c�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-9B1C9B?style=flat-square&logo=testcontainers&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -18,4 +19,4 @@ Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em c�
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

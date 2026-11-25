@@ -1,6 +1,6 @@
 # João Victor · Desenvolvedor Backend
 
-Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em código limpo, arquitetura, consistência de dados sob concorrência, testes automatizados e integração contínua. Também construo interfaces web com Angular e Typescript.
+Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em código limpo, arquitetura, consistência de dados sob concorrência e testes automatizados. Também construo interfaces web com Python e Next.js.
 
 📍 Brasil  |  📧 [Email](mailto:nevvesdev@gmail.com)  |  💼 [LinkedIn](https://www.linkedin.com/in/nevvesdev/)  |  🌐 [Portfólio](https://portfolio-nevvesdev.vercel.app/)
 
@@ -17,6 +17,6 @@ Desenvolvo APIs e aplicações backend com Java 21 e Spring Boot, com foco em c�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
